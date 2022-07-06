@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Hexagonal Keyboard</string>
+    <string name="my_ime">Hexagonal Keyboard</string>
+
+    <string name="settings_name">Hexagonal Keyboard settings</string>
+    <string name="general_category">General settings</string>
+
+    <string name="button_q">q</string>
+    <string name="button_w">w</string>
+    <string name="button_e">e</string>
+    <string name="button_r">r</string>
+    <string name="button_t">t</string>
+    <string name="button_y">y</string>
+    <string name="button_u">u</string>
+    <string name="button_i">i</string>
+    <string name="button_o">o</string>
+    <string name="button_p">p</string>
+
+    <string name="button_a">a</string>
+    <string name="button_s">s</string>
+    <string name="button_d">d</string>
+    <string name="button_f">f</string>
+    <string name="button_g">g</string>
+    <string name="button_h">h</string>
+    <string name="button_j">j</string>
+    <string name="button_k">k</string>
+    <string name="button_l">l</string>
+
+    <string name="button_z">z</string>
+    <string name="button_x">x</string>
+    <string name="button_c">c</string>
+    <string name="button_v">v</string>
+    <string name="button_b">b</string>
+    <string name="button_n">n</string>
+    <string name="button_m">m</string>
+    <string name="button_del">&lt;</string>
+
+    <string name="button_space">___</string>
+    <string name="button_enter">ENTER</string>
+    <string name="button_settings">SET</string>
+
+    <array name="entries">
+        <item>QWERTY</item>
+        <item>Typewise</item>
+        <item>Custom</item>
+    </array>
+
+    <string-array name="entry_values">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+    </string-array>
+
+    <string name="value">0</string>
+
+</resources>

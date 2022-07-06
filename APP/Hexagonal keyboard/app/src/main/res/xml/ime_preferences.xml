@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:title="@string/settings_name">
+
+    <PreferenceCategory android:title="@string/general_category">
+        <CheckBoxPreference
+            android:defaultValue="true"
+            android:key="hand"
+            android:title="Right-handed" />
+
+        <ListPreference
+            android:defaultValue="0"
+            android:entries="@array/entries"
+            android:entryValues="@array/entry_values"
+            android:key="my_keyboard_layout"
+            android:title="Keyboard layout" />
+    </PreferenceCategory>
+
+</PreferenceScreen>
